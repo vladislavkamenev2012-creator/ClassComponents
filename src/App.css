@@ -1,0 +1,17 @@
+.recipe {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.recipe-title {
+  text-align: center;
+}
+
+.recipe-photo {
+  width: 50%;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
